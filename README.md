@@ -1,4 +1,4 @@
-# Datavisualiatie Les 1!
+# Datavisualisatie Les 1!
 
 ## Dit ben ik (Yung-Sandwich)
 
